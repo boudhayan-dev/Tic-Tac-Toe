@@ -2,7 +2,7 @@
 A  Python script that plays tic-tac-toe with the user.
 
 # Overview -
-This script plays a game of tic-tac-toe witha single player . The script etermines who goes first , randomly . In, case there is a tie between the player and the computer , 'match is a tie ' message is displayed or else , the winner is displayed .
+This script plays a game of tic-tac-toe with a single player . The script determines who goes first , randomly . In, case there is a tie between the player and the computer , 'match is a tie ' message is displayed or else , the winner is displayed .
 
 #Requirements - 
 1. Python 3.0 or higher.
